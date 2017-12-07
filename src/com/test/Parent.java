@@ -9,7 +9,7 @@ public class Parent {
 		System.out.println("父类构造方法");
 	}
 	public Parent(String name) {
-		System.out.println("父类带餐构造方法");
+		System.out.println("父类带餐构造方法33");
 		this.name = name;
 	}
 	
